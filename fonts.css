@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Roboto Mono';
+	src: url('RobotoMono-Regular.ttf') format('truetype');
+}
+
+body {
+	font-family: 'Roboto Mono';
+	line-height: 1.5;
+}
+
+h1 {
+	font-weight: 500;
+	font-size: 2.5em;
+}
